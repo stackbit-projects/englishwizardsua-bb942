@@ -6,7 +6,7 @@ sections:
     subtitle: 'From 20,000UAH/month'
     content: 'Legal, qualiifed, and guarenteed stability with English Wizards.'
     actions:
-      - label: Try Free
+      - label: View Teachers
         url: /pricing
         style: primary
       - label: Learn More
