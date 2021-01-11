@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Native English Teachers
     subtitle: 'From 20,000UAH/month'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: 'Legal, qualiifed, and guarenteed stability with English Wizards.'
     actions:
       - label: Try Free
         url: /pricing
